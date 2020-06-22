@@ -14,7 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemName: Shovel
   description: This is a shovel
-  health: 40
-  strength: 80
-  speed: 30
-  defense: 70
+  masterValue: 43
+  previousValue: 43
+  health: 193
+  strength: 54
+  speed: 43
+  defense: 0

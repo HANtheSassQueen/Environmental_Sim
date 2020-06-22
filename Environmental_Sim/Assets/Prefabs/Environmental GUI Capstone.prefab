@@ -1625,7 +1625,7 @@ MonoBehaviour:
   m_Direction: 0
   m_MinValue: 0
   m_MaxValue: 100
-  m_WholeNumbers: 0
+  m_WholeNumbers: 1
   m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4356,12 +4356,12 @@ PrefabInstance:
     - target: {fileID: 482644692059394517, guid: 05669233dd6536b4ca792c428a4c7801,
         type: 3}
       propertyPath: m_Value
-      value: 0.99985075
+      value: 0.9998542
       objectReference: {fileID: 0}
     - target: {fileID: 482644692059394517, guid: 05669233dd6536b4ca792c428a4c7801,
         type: 3}
       propertyPath: m_Size
-      value: 0.94940734
+      value: 0.9494074
       objectReference: {fileID: 0}
     - target: {fileID: 1203292286256089059, guid: 05669233dd6536b4ca792c428a4c7801,
         type: 3}

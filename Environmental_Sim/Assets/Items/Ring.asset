@@ -14,7 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemName: Ring
   description: This is a ring
-  health: 30
-  strength: 20
-  speed: 90
-  defense: 30
+  masterValue: 0
+  previousValue: 55
+  health: 0
+  strength: 0
+  speed: 0
+  defense: 0
